@@ -1,2 +1,2 @@
-# learn
-a repo created to learn remote git connections
+# revise 
+a repo created to check my memory on remote git connections 😲
